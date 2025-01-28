@@ -1,4 +1,5 @@
 Titanic Dataset Preprocessing
+
 This repository contains a Python script for preprocessing the Titanic dataset, which is often used for machine learning tasks like classification. The script includes various steps such as handling missing values, outlier detection, feature engineering, and encoding categorical variables. The dataset used is the Titanic dataset, which contains information about passengers aboard the Titanic and whether they survived or not.
 
 Steps Performed
